@@ -583,7 +583,7 @@ function AdminContent({
             Ingresar
           </button>
           <div className="muted small" style={{ marginTop: 8 }}>
-            * El usuario debe existir en Firebase Authentication.
+            * Debe ser un usuario autorizado.
           </div>
         </form>
       </div>
